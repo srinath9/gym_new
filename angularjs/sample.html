@@ -1,0 +1,20 @@
+<html>
+<head>
+  <script type="text/javascript" src="first.js"></script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.3/angular.min.js" ></script>
+</head>
+<body>
+  <div ng-app="myapp">
+      <div ng-controller="firstone">
+        <input ng-model="data.message" type="text">
+        <h2>{{data.message}}</h2>
+      </div>
+      <div ng-controller="first">
+      <input type ="text" ng-model="data.message" >
+        <h3 >{{revert(data.message)}}</h3>
+      </div>
+
+  </div>
+
+</body>
+</html>
