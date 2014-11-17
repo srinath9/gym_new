@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demos.codexcoder.com	TRUE	/wpbiz/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+demos.codexcoder.com	TRUE	/	FALSE	1999999999	PHPSESSID	b5fe010711bc7a6a39e57355724fee87
+
